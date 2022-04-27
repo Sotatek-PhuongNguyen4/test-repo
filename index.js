@@ -36,3 +36,5 @@ myFirstBlockChain.addBlock({sender: "Phuong", receiver: "Anh", amount: 3000})
 myFirstBlockChain.addBlock({sender: "Phuong", receiver: "Anh", amount: 2000})
 
 console.log(JSON.stringify(myFirstBlockChain, null, 6))
+
+console.log("ADAD")
